@@ -13,7 +13,7 @@ c=max(lis)
             
 print('en küçük fark değeri olan {} için i = {} ve n= {}'.format(a,b,c))
 
-#henüz bitmedi en küçüğü seçmiyor
+
    
 
         
